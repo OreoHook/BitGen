@@ -6,3 +6,5 @@ idna==2.10
 requests==2.25.1
 six==1.16.0
 urllib3==1.26.6
+typing==3.6
+discord-webhook==0.14.0
